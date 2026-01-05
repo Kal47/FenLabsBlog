@@ -6,3 +6,11 @@ heroImage: "/blog-placeholder-2.jpg"
 ---
 
 *Soon to be published*
+
+This soon to be written blog will go over the process and road blocks I faced while repurposing an old Datto S4 NAS.
+
+# Background
+
+# Chassis Information
+
+
